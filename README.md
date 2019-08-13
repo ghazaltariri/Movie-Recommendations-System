@@ -1,4 +1,4 @@
-# Movie Recommender System:
+# Movie Recommendations System:
 
 * Project: Movie recommender based of data from the [MovieLens dataset](http://grouplens.org/datasets/movielens/)
 * Data: Movies information, user information, and user's ratings 
